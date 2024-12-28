@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pokédex Lite
 
 A web application that utilizes data from [PokéAPI](https://pokeapi.co/) to search, filter through, and display comprehensive data on various Pokémon species. Users can search from categories including generation, type, shape, habitat, color, as well as directly through Pokémon name or Pokédex number. Pokémon can also be stored as favourites for future referencing.
@@ -76,6 +76,6 @@ As the project developed, it also gradually became bulkier and harder to make ch
 ## References
 
 - [CSS Only 3D Bar Graph](https://codepen.io/TimRuby/pen/DGYoYz)
-=======
+
 # Frontend-Developer-Assignment
->>>>>>> 5718a1c6e0db5e21ed7d1363acf3130196c80f42
+
