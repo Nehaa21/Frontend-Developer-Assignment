@@ -26,7 +26,8 @@ As a Pokémon gamer, I want a Pokémon list so that I can easily find the Pokém
 
 The overall navigation flow of the app. The main pages are the Pokédex and Pokémon page, with the other pages acting as navigation aids to direct users toward the main pages.
 
-![layout](https://user-images.githubusercontent.com/115427253/204695718-2d1a6b7c-7078-4f90-943d-a3bb2b7bca92.png)
+![layout](src/Assets/Images/wireframe.png.png)
+
 ---
 
 ### Region page
