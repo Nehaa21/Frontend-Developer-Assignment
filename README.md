@@ -23,10 +23,10 @@ As a Pokémon gamer, I want a Pokémon list so that I can easily find the Pokém
 ## Layout
 
 ### Wireframe
-
 The overall navigation flow of the app. The main pages are the Pokédex and Pokémon page, with the other pages acting as navigation aids to direct users toward the main pages.
 
-![layout](src/Assets/Images/wireframe.png.png)
+![Wireframe](src/Assets/Images/wireframe.png)
+
 
 ---
 
